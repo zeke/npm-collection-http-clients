@@ -2,6 +2,7 @@
 
 A review of HTTP clients for Node.js and browsers
 
+- [axios](https://github.com/git+https:/): Promise based HTTP client for the browser and node.js
 - [got](https://github.com/sindresorhus/got): Simplified HTTP/HTTPS requests
 - [got-promise](https://github.com/floatdrop/got-promise): Promise wrapper of sindresorhus/got
 - [http-browserify](https://github.com/substack/http-browserify): http module compatability for browserify
