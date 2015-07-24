@@ -10,6 +10,7 @@ A review of HTTP clients for Node.js and browsers
 - [httpplease](https://github.com/matthewwithanm/httpplease.js): The polite HTTP request library for node and the browser
 - [needle](https://github.com/tomas/needle): Tiny yet feature-packed HTTP client. With multipart, charset decoding and proxy support.
 - [nets](https://github.com/maxogden/nets): nothin but nets. http client that works in node and browsers
+- [node-fetch](https://github.com/git+https:/): A light-weight module that brings window.fetch to node.js and io.js
 - [request](https://github.com/mikeal/request): Simplified HTTP request client.
 - [reqwest](https://github.com/ded/reqwest): A wrapper for asynchronous http requests
 - [restler](https://github.com/danwrong/restler): An HTTP client library for node.js
