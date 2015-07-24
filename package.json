@@ -1,0 +1,39 @@
+{
+  "name": "npm-collection-http-clients",
+  "version": "1.0.0",
+  "description": "A review of HTTP clients for Node.js and browsers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/npm-collection-http-clients"
+  },
+  "keywords": [
+    "collection",
+    "http"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeke/npm-collection-http-clients/issues"
+  },
+  "homepage": "https://github.com/zeke/npm-collection-http-clients",
+  "dependencies": {
+    "got": "^1.2.2",
+    "got-promise": "^4.1.0",
+    "http-browserify": "^1.7.0",
+    "httpify": "^1.0.0",
+    "httpplease": "^0.15.1",
+    "needle": "^0.7.11",
+    "nets": "^2.0.0",
+    "request": "^2.45.0",
+    "reqwest": "^1.1.4",
+    "restler": "^3.2.2",
+    "superagent": "^0.20.0",
+    "supertest": "^0.14.0",
+    "unirest": "^0.3.8",
+    "xhr": "^1.16.1"
+  }
+}
