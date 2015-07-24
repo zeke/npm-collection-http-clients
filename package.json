@@ -35,6 +35,7 @@
     "superagent": "^0.20.0",
     "supertest": "^0.14.0",
     "unirest": "^0.3.8",
+    "whatwg-fetch": "^0.9.0",
     "xhr": "^1.16.1"
   }
 }
