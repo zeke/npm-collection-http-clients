@@ -22,8 +22,7 @@
   "homepage": "https://github.com/zeke/npm-collection-http-clients",
   "dependencies": {
     "axios": "^0.5.4",
-    "got": "^1.2.2",
-    "got-promise": "^4.1.0",
+    "got": "^4.0.0",
     "http-browserify": "^1.7.0",
     "httpify": "^1.0.0",
     "httpplease": "^0.15.1",
