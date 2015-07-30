@@ -7,6 +7,8 @@ A review of HTTP clients for Node.js and browsers
 - [http-browserify](https://github.com/substack/http-browserify): http module compatability for browserify
 - [httpify](https://github.com/scottcorgan/httpify): Http in Node and Browserify, simply.
 - [httpplease](https://github.com/matthewwithanm/httpplease.js): The polite HTTP request library for node and the browser
+- [hyperquest](https://github.com/substack/hyperquest): make streaming http requests
+- [hyperquestionable](https://github.com/nathan7/hyperquestionable): request's questionable behaviour of aggregrating the body, on top of hyperquest
 - [needle](https://github.com/tomas/needle): Tiny yet feature-packed HTTP client. With multipart, charset decoding and proxy support.
 - [nets](https://github.com/maxogden/nets): nothin but nets. http client that works in node and browsers
 - [node-fetch](https://github.com/git+https:/): A light-weight module that brings window.fetch to node.js and io.js
