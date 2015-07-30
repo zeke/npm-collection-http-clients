@@ -32,6 +32,7 @@
     "request": "^2.45.0",
     "reqwest": "^1.1.4",
     "restler": "^3.2.2",
+    "simple-get": "^1.4.2",
     "superagent": "^0.20.0",
     "supertest": "^0.14.0",
     "unirest": "^0.3.8",
