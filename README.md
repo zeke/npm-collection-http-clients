@@ -14,6 +14,7 @@ A review of HTTP clients for Node.js and browsers
 - [node-fetch](https://github.com/git+https:/): A light-weight module that brings window.fetch to node.js and io.js
 - [request](https://github.com/mikeal/request): Simplified HTTP request client.
 - [reqwest](https://github.com/ded/reqwest): A wrapper for asynchronous http requests
+- [rest](https://github.com/cujojs/rest): RESTful HTTP client library
 - [restler](https://github.com/danwrong/restler): An HTTP client library for node.js
 - [simple-get](https://github.com/feross/simple-get): Simplest way to make http get requests. Supports HTTPS, redirects, gzip/deflate, streams in &lt; 100 lines.
 - [superagent](https://github.com/visionmedia/superagent): elegant &amp; feature rich browser / node HTTP with a fluent API
