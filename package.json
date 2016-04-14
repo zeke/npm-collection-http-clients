@@ -1,6 +1,6 @@
 {
   "name": "npm-collection-http-clients",
-  "version": "1.8.0",
+  "version": "1.8.1",
   "description": "A review of HTTP clients for Node.js and browsers",
   "main": "index.js",
   "scripts": {
