@@ -3,6 +3,7 @@
 A review of HTTP clients for Node.js and browsers
 
 - [axios](https://github.com/mzabriskie/axios): Promise based HTTP client for the browser and node.js
+- [faxios](https://github.com/mzabriskie/axios): Promise based HTTP client for the browser and node.js that is build totally on top of axios.
 - [got](https://github.com/sindresorhus/got): Simplified HTTP/HTTPS requests
 - [http-browserify](https://github.com/substack/http-browserify): http module compatability for browserify
 - [httpify](https://github.com/scottcorgan/httpify): Http in Node and Browserify, simply.
